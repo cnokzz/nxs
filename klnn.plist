@@ -11,7 +11,7 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>http://klnn.c0830.com/down/klnn.ipa</string>  
+                    <string>http://tcnld.c0830.com/down/klnn.ipa</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>http://klnn.c0830.com/klnn/icon.png</string>  
+                    <string>http://tcnld.c0830.com/klnn/icon.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>  
                     <key>url</key>  
-                    <string>http://klnn.c0830.com/klnn/icon.png</string>  
+                    <string>http://tcnld.c0830.com/klnn/icon.png</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
@@ -39,7 +39,7 @@
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
-                <string>快乐牛牛I</string>  
+                <string>甜城牛老大</string>  
             </dict>  
         </dict>  
     </array>  
