@@ -17,25 +17,25 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://cloud.niuzz.cn/fkyl//57.png</string>
+					<string>http://cloud.niuzz.cn/fkyl/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://cloud.niuzz.cn/fkyl//512.png</string>
+					<string>http://cloud.niuzz.cn/fkyl/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fangkuai.enterprise</string>
+				<string>com.longheng.game5188</string>
 				<key>bundle-version</key>
 				<string>3.9.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>方块娱乐</string>
+				<string>零点娱乐</string>
 			</dict>
 		</dict>
 	</array>
